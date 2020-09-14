@@ -1,38 +1,82 @@
-.App {
+body{
+  
+}
+
+.imgmeme{
+  /* position: relative; */
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.head{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.head-text{
   color: white;
+  padding: 4px;
+  background-color: #333;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  font-size: 50px;
+  font-family: cursive;
+  font-weight: bolder;
 }
 
-.App-link {
-  color: #61dafb;
+.input{
+  display: inline;
+  padding: 8px;
+  border: 4px #333 solid;
+  margin: 2px;
+  width: max-content;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* .input:active{
+  border: 4px royalblue solid;
+} */
+
+
+.btn{
+  margin-bottom: 4px ;
 }
+
+/* .main-img{
+  position: relative;
+} */
+
+.top{
+  /* position: absolute; */
+  margin-top: -400px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  /* text-align: center; */
+}
+.bottom{
+  /* position: absolute; */
+  /* bottom: 5px; */
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-top: 300px;
+   
+  /* text-align: center; */
+}
+
+footer{
+  position: absolute ;
+  bottom: 5px;
+  left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
