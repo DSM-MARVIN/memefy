@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/memefy/static/css/main.30d6b5a6.chunk.css",
+    "main.js": "/memefy/static/js/main.b80e4ef9.chunk.js",
+    "main.js.map": "/memefy/static/js/main.b80e4ef9.chunk.js.map",
+    "runtime-main.js": "/memefy/static/js/runtime-main.2011c27a.js",
+    "runtime-main.js.map": "/memefy/static/js/runtime-main.2011c27a.js.map",
+    "static/js/2.0c6ae9ba.chunk.js": "/memefy/static/js/2.0c6ae9ba.chunk.js",
+    "static/js/2.0c6ae9ba.chunk.js.map": "/memefy/static/js/2.0c6ae9ba.chunk.js.map",
+    "index.html": "/memefy/index.html",
+    "precache-manifest.954e1ccf1075085204c90c736d9d8555.js": "/memefy/precache-manifest.954e1ccf1075085204c90c736d9d8555.js",
+    "service-worker.js": "/memefy/service-worker.js",
+    "static/css/main.30d6b5a6.chunk.css.map": "/memefy/static/css/main.30d6b5a6.chunk.css.map",
+    "static/js/2.0c6ae9ba.chunk.js.LICENSE.txt": "/memefy/static/js/2.0c6ae9ba.chunk.js.LICENSE.txt",
+    "static/media/logo2.png": "/memefy/static/media/logo2.42fd59f3.png",
+    "static/media/memeimg.jpg": "/memefy/static/media/memeimg.89245447.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2011c27a.js",
+    "static/js/2.0c6ae9ba.chunk.js",
+    "static/css/main.30d6b5a6.chunk.css",
+    "static/js/main.b80e4ef9.chunk.js"
+  ]
+}
